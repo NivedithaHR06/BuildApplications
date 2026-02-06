@@ -1,0 +1,8 @@
+{
+  "name": "StudentStudyAssistant",
+  "description": "A high-performance study assistant that simplifies complex topics, generates practice quizzes, and creates structured study plans using Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
